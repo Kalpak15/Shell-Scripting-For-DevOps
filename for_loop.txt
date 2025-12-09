@@ -1,0 +1,13 @@
+This is the for loop shell script
+
+
+for(i=0;i<=6;i++)
+do 
+    cout<<Shell Scripting
+
+
+
+
+
+
+
